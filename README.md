@@ -4,11 +4,30 @@ To help increase transparency of the research process, we suggest researchers co
 
 To facilitate the use of analysis plans in your workflow, we provide several versions of an analysis plan template here for you to download. First, we have the fields available in the Open Science Framework (OSF), converted to an excel sheet. Next, based on the OSF template, we provide a template that is more tailored for epidemiologic research. We know that there are many different ways to create an analysis plan (some examples linked below) and many predetermined questions that are specific to certain disciplines, research questions, datasets, or methodologies. With that in mind, we provide these templates as a starting point, encouraging researchers to edit their plans as they see appropriate and helpful to them, their research questions, and designs.
 
-### Other Resources
+## Repository Content
+- `README.md`: This file with an explanation of this repository.
+- `OSF Based Analysis Plan Template.xlsx`: An excel template based off the fields provided in the Open Science Framework preregistration.
+- `VabLab Analysis Plan Template.xlsx`: An excel template more applicable to the work our team does (e.g., Epidemiology, secondary data analyses).
+
+## Other Resources
 - [Open Science Framework](https://www.cos.io/initiatives/prereg)
 - [Training in Reproducible Research on Aging for Social Science and Epidemiology (TRASE) Modules](https://epibiostat.ucsf.edu/training-reproducible-research-aging-social-science-and-epidemiology-trase)
 - [Van Den Akker, Weston, Campbell, et. al (2019) example pre-registration template](https://research.tilburguniversity.edu/files/59681584/MTO_vd_Akker_preregistration_of_secondarity_data_analysis_Meta_Psy_2021.pdf)
 
-### Reproducibility Papers
+#### Reproducibility Papers
 - [The Preregistration Revolution](https://www.pnas.org/doi/10.1073/pnas.1708274114)
 - [Toward Open and Reproducible Epidemiology](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089067/)
+
+## Contact Information
+Jilly Hebert hebertj@wustl.edu
+
+Sachi Taniguchi sachiko@wustl.edu
+
+## Affiliations
+Anusha M. Vable: School of Public Health, Washington University in St. Louis
+
+Lucia Pacca:  Department of Family and Community Medicine, University of California San Francisco 
+
+Jilly Hebert and Amanda M. Irish: School of Public Health, Washington University in St. Louis
+
+

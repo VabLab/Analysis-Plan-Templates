@@ -1,1 +1,8 @@
 # Analysis-Plan-Templates
+
+To help increase transparency of the research process, we suggest researchers complete analysis plans prior to beginning a new analysis. Analysis plans help researchers clearly identify their research question, state a hypothesis and detail the plan to test their hypothesis before beginning analyses. Analysis plans also help clarify how variables are operationalized and how the analysis will be implemented, increasing transparency and reproducibility. The analysis plan should be updated to reflect changes in study design or implementation as the analysis progresses. In this way, the analysis plans can serve as an outline for writing the methods section of the manuscript and should clearly detail which decisions were made before the analysis started and which decisions were made once the analysis had begun (think of it like a lab notebook for your research).
+
+To facilitate the use of analysis plans in your workflow, we provide several versions of an analysis plan template here for you to download. First, we have the fields available in the Open Science Framework (OSF), converted to an excel sheet. Next, based on the OSF template, we provide a template that is more tailored for epidemiologic research. We know that there are many different ways to create an analysis plan (some examples linked below) and many predetermined questions that are specific to certain disciplines, research questions, datasets, or methodologies. With that in mind, we provide these templates as a starting point, encouraging researchers to edit their plans as they see appropriate and helpful to them, their research questions, and designs.
+
+#### Other resources
+- Open Science Framework (link)[https://www.cos.io/initiatives/prereg]

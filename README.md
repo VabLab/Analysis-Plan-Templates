@@ -20,9 +20,12 @@ To facilitate the use of analysis plans in your workflow, we provide several ver
 
 ## Contact Information
 Anusha M. Vable vable@wustl.edu: School of Public Health, Washington University in St. Louis
+
 Lucia Pacca lucia.pacca@ucsf.edu: Department of Epidemiology and Biostatistics, University of California San Francisco 
 
+
 Jilly Hebert hebertj@wustl.edu: School of Public Health, Washington University in St. Louis
+
 Amanda M. Irish airish@wustl.edu: School of Public Health, Washington University in St. Louis
 
 

@@ -13,19 +13,22 @@ To facilitate the use of analysis plans in your workflow, we provide several ver
 - [Open Science Framework](https://www.cos.io/initiatives/prereg)
 - [Training in Reproducible Research on Aging for Social Science and Epidemiology (TRASE) Modules](https://epibiostat.ucsf.edu/training-reproducible-research-aging-social-science-and-epidemiology-trase)
 
-#### Papers
-- *The Preregistration Revolution* (2018) Nosek, Ebersole, DeHaven, and Mellor [(link)](https://www.pnas.org/doi/10.1073/pnas.1708274114)
-- *Toward Open and Reproducible Epidemiology* (2023) Mathur and Fox [(link)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089067/)
-- *Preregistration of secondary data analysis: A template and tutorial* (2021) Van Den Akker, Weston, Campbell, et. al [(link)](https://repository.tilburguniversity.edu/server/api/core/bitstreams/c79fb46d-e104-4d8b-ba70-aaa29fa0e71e/content)
+### Papers
+- *The Preregistration Revolution* (2018) Nosek, Ebersole, DeHaven, and Mellor ([link](https://www.pnas.org/doi/10.1073/pnas.1708274114))
+- *Toward Open and Reproducible Epidemiology* (2023) Mathur and Fox ([link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089067/))
+- *Preregistration of secondary data analysis: A template and tutorial* (2021) Van Den Akker, Weston, Campbell, et. al ([link](https://repository.tilburguniversity.edu/server/api/core/bitstreams/c79fb46d-e104-4d8b-ba70-aaa29fa0e71e/content))
 
 ## Contact Information
-Anusha M. Vable vable@wustl.edu: School of Public Health, Washington University in St. Louis
+Anusha M. Vable vable@wustl.edu  
+School of Public Health, Washington University in St. Louis
 
-Lucia Pacca lucia.pacca@ucsf.edu: Department of Epidemiology and Biostatistics, University of California San Francisco 
+Lucia Pacca lucia.pacca@ucsf.edu  
+Department of Epidemiology and Biostatistics, University of California San Francisco 
 
+Jilly Hebert hebertj@wustl.edu  
+School of Public Health, Washington University in St. Louis
 
-Jilly Hebert hebertj@wustl.edu: School of Public Health, Washington University in St. Louis
-
-Amanda M. Irish airish@wustl.edu: School of Public Health, Washington University in St. Louis
+Amanda M. Irish airish@wustl.edu  
+School of Public Health, Washington University in St. Louis
 
 

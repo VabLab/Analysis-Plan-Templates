@@ -19,15 +19,10 @@ To facilitate the use of analysis plans in your workflow, we provide several ver
 - *Preregistration of secondary data analysis: A template and tutorial* (2021) Van Den Akker, Weston, Campbell, et. al [(link)](https://repository.tilburguniversity.edu/server/api/core/bitstreams/c79fb46d-e104-4d8b-ba70-aaa29fa0e71e/content)
 
 ## Contact Information
-Jilly Hebert hebertj@wustl.edu
+Anusha M. Vable vable@wustl.edu: School of Public Health, Washington University in St. Louis
+Lucia Pacca lucia.pacca@ucsf.edu: Department of Epidemiology and Biostatistics, University of California San Francisco 
 
-Sachi Taniguchi sachiko@wustl.edu
-
-## Affiliations
-Anusha M. Vable: School of Public Health, Washington University in St. Louis
-
-Lucia Pacca: Department of Epidemiology and Biostatistics, University of California San Francisco 
-
-Jilly Hebert and Amanda M. Irish: School of Public Health, Washington University in St. Louis
+Jilly Hebert hebertj@wustl.edu: School of Public Health, Washington University in St. Louis
+Amanda M. Irish airish@wustl.edu: School of Public Health, Washington University in St. Louis
 
 

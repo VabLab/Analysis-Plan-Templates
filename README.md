@@ -26,7 +26,7 @@ Sachi Taniguchi sachiko@wustl.edu
 ## Affiliations
 Anusha M. Vable: School of Public Health, Washington University in St. Louis
 
-Lucia Pacca:  Department of Family and Community Medicine, University of California San Francisco 
+Lucia Pacca: Department of Epidemiology and Biostatistics, University of California San Francisco 
 
 Jilly Hebert and Amanda M. Irish: School of Public Health, Washington University in St. Louis
 

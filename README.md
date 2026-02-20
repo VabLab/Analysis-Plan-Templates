@@ -12,11 +12,11 @@ To facilitate the use of analysis plans in your workflow, we provide several ver
 ## Other Resources
 - [Open Science Framework](https://www.cos.io/initiatives/prereg)
 - [Training in Reproducible Research on Aging for Social Science and Epidemiology (TRASE) Modules](https://epibiostat.ucsf.edu/training-reproducible-research-aging-social-science-and-epidemiology-trase)
-- [Van Den Akker, Weston, Campbell, et. al (2019) example pre-registration template](https://research.tilburguniversity.edu/files/59681584/MTO_vd_Akker_preregistration_of_secondarity_data_analysis_Meta_Psy_2021.pdf)
 
-#### Reproducibility Papers
-- [The Preregistration Revolution](https://www.pnas.org/doi/10.1073/pnas.1708274114)
-- [Toward Open and Reproducible Epidemiology](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089067/)
+#### Papers
+- *The Preregistration Revolution* (2018) Nosek, Ebersole, DeHaven, and Mellor [(link)](https://www.pnas.org/doi/10.1073/pnas.1708274114)
+- *Toward Open and Reproducible Epidemiology* (2023) Mathur and Fox [(link)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089067/)
+- *Preregistration of secondary data analysis: A template and tutorial* (2021) Van Den Akker, Weston, Campbell, et. al [(link)](https://repository.tilburguniversity.edu/server/api/core/bitstreams/c79fb46d-e104-4d8b-ba70-aaa29fa0e71e/content)
 
 ## Contact Information
 Jilly Hebert hebertj@wustl.edu
